@@ -1,0 +1,9 @@
+﻿  Algoritmo de PRIM.cpp
+c:\users\jvanj\source\repos\algoritmo de prim\algoritmo de prim\algoritmo de prim.cpp(39): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo de prim\algoritmo de prim\algoritmo de prim.cpp(42): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo de prim\algoritmo de prim\algoritmo de prim.cpp(45): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo de prim\algoritmo de prim\algoritmo de prim.cpp(63): warning C4101: 'j': variável local não referenciada
+c:\users\jvanj\source\repos\algoritmo de prim\algoritmo de prim\algoritmo de prim.cpp(108): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo de prim\algoritmo de prim\algoritmo de prim.cpp(119): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\algoritmo de prim\algoritmo de prim\algoritmo de prim.cpp(101): warning C4715: 'criaGrafo': nem todos os caminhos de controle retornam um valor
+  Algoritmo de PRIM.vcxproj -> C:\Users\jvanj\source\repos\Algoritmo de PRIM\Debug\Algoritmo de PRIM.exe

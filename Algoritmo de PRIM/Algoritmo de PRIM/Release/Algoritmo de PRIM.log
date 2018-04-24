@@ -1,0 +1,13 @@
+﻿  Algoritmo de PRIM.cpp
+Algoritmo de PRIM.cpp(39): warning C4018: '<': incompatibilidade de signed/unsigned
+Algoritmo de PRIM.cpp(42): warning C4018: '<': incompatibilidade de signed/unsigned
+Algoritmo de PRIM.cpp(45): warning C4018: '<': incompatibilidade de signed/unsigned
+Algoritmo de PRIM.cpp(63): warning C4101: 'j': variável local não referenciada
+Algoritmo de PRIM.cpp(108): warning C4018: '<': incompatibilidade de signed/unsigned
+Algoritmo de PRIM.cpp(119): warning C4018: '<': incompatibilidade de signed/unsigned
+  Gerando código
+  2 of 448 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  Algoritmo de PRIM.vcxproj -> C:\Users\jvanj\source\repos\Algoritmo de PRIM\Release\Algoritmo de PRIM.exe
